@@ -1,2 +1,2 @@
-# pi
+# repositorio pi
 n sei
